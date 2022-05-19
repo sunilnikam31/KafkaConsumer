@@ -1,4 +1,4 @@
-package com.sunil.com.sunil.configuration;
+package com.sunil.configuration;
 
 import com.sunil.modal.Employee;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
